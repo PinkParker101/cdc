@@ -1,0 +1,29 @@
+{
+    "trains": [
+        {
+            "id": "T101",
+            "name": "EXPRESS",
+            "arrival": 660,
+            "departure": 680,
+            "category": "Local",
+            "platform": "P2"
+        },
+        {
+            "id": "T102",
+            "name": "VANDE BHARAT",
+            "arrival": 660,
+            "departure": 675,
+            "category": "Local",
+            "platform": "P1"
+        },
+        {
+            "id": "T103",
+            "name": "RAJDHANI",
+            "arrival": 60,
+            "departure": 90,
+            "category": "Long Distance",
+            "platform": "P1"
+        }
+    ],
+    "reserved_platforms": 3
+}
